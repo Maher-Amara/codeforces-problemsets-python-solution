@@ -7,3 +7,4 @@ codeforces problemsets python solutions
 ### Problems (sorted by difficulty)
 
 [A. Thanos Sort](https://github.com/Maher-Amara/codeforces-problemsets-python-solution/tree/main/thanos-sort)
+[A. Pages](https://github.com/Maher-Amara/codeforces-problemsets-python-solution/tree/main/pages)
