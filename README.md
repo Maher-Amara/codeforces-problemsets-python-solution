@@ -6,5 +6,4 @@ codeforces problemsets python solutions
 
 ### problems
 
-1) [A. Thanos Sort](https://github.com/Maher-Amara/codeforces-problemsets-python-solution/tree/main/thanos-sort)
-2) 
+[A. Thanos Sort](https://github.com/Maher-Amara/codeforces-problemsets-python-solution/tree/main/thanos-sort)
