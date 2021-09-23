@@ -2,7 +2,7 @@
 
 ## Codeforces problemsets
 
-codeforces problemsets python solutions
+Codeforces problemsets solutions in python
 
 ### Problems (sorted by difficulty)
 
